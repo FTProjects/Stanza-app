@@ -1,0 +1,8 @@
+<main class="stanze-card bg-light rounded-5 p-2">
+
+    <h3 class="title text-center" [ngClass]="(StanzeSortate.length > 0)? 'mb-2' : ''">Stanze Disponibili</h3>
+
+
+    <app-card [listaStanze]="StanzeSortate" btnText="Aggiungi" btnVariant="btn-aggiungi"
+        (onAction)="Prenota($event)"></app-card>
+</main>

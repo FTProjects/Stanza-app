@@ -1,0 +1,9 @@
+<main class="stanze-card bg-light rounded-5 p-2">
+
+    <h3 class="title text-center" [ngClass]="(StanzeSortate.length > 0)? 'mb-2' : ''">Stanze Prenotate</h3>
+
+
+    <app-card [listaStanze]="StanzeSortate" btnText="Cancella" btnVariant="btn-cancella"
+        (onAction)="Cancella($event)"></app-card>
+
+</main>

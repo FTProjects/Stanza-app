@@ -1,0 +1,28 @@
+.stanze-card{
+    background: linear-gradient(
+    to top right,
+    #b296db57,
+    #7f9dcc65 40%,
+    #5784cc63 65%,
+    #7331d648 100%
+    );
+}
+
+.stanze-card h3{
+    color: #fff;
+    font-style: italic;
+    font-weight: 900;
+    background: linear-gradient(
+    to top right,
+    #691cdb,
+    #0d3c88 40%,
+    #2667cf 65%,
+    #310f63 100%
+    );
+    border-radius: 50px;
+    padding: 10px;
+    margin: 0;
+}
+
+
+

@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="27.1.4">
+  <diagram name="Pagina-1" id="mVLxmKMAK9bxHMj7bE_9">
+    <mxGraphModel dx="2066" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-14" target="CBhs3tshMtPkdu_z_mKI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-14" target="CBhs3tshMtPkdu_z_mKI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-14" value="StanzeApp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-15" target="CBhs3tshMtPkdu_z_mKI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-15" value="StanzeDisponibili" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-17" target="CBhs3tshMtPkdu_z_mKI-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-17" value="StanzePrenotate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-19" value="Card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-22" target="CBhs3tshMtPkdu_z_mKI-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-22" target="CBhs3tshMtPkdu_z_mKI-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-22" value="StanzeService" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-28" value="Card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-31" target="CBhs3tshMtPkdu_z_mKI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-31" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-34" target="CBhs3tshMtPkdu_z_mKI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CBhs3tshMtPkdu_z_mKI-34" target="CBhs3tshMtPkdu_z_mKI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-34" value="Footer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CBhs3tshMtPkdu_z_mKI-38" value="&lt;h1&gt;Stanze-App&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="334" y="50" width="160" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
